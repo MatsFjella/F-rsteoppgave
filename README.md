@@ -1,2 +1,1 @@
-# F-rsteoppgave
-Første oppgave til Mats Fjellheim på Noroff
+# Min første repo på Github
